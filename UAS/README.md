@@ -69,4 +69,4 @@ https://github.com/nuhaaputri19/UAS-TESTING/blob/main/UAS/test/test_routes.py
 
 dan untuk create factory ditambahkan jg data untuk model cart
 
-https://github.com/nisya981/TESTING_QA/blob/main/UAS/test/test_models.py
+https://github.com/nuhaaputri19/UAS-TESTING/blob/main/UAS/test/test_models.py
